@@ -1,4 +1,4 @@
-package com.example.loanpayment.domain.payment.model;
+package com.loanpayment.domain.payment.model;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
